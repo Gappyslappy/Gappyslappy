@@ -9,7 +9,7 @@ import random
 from slider_gallery_frame import SliderGalleryFrame
 import tkinter as tk
 
-API_KEY = ''
+API_KEY = eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI3OWFiYzUzMC01MGIxLTAxMzgtNjMzZS0wY2Q4ZGMwOTVkNDgiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNTg1MTMyMTg3LCJwdWIiOiJibHVlaG9sZSIsInRpdGxlIjoicHViZyIsImFwcCI6InRvbnN0ZS1vdXRsb29rIn0.eRiA6qOsGCp6Cbt9y7DwC_I_EY9ftEEd6eW1SqCY3m8''
 
 ERANGEL_MAP_IMG_PATH = 'data/img/erangel_map.jpg'
 MIRAMAR_MAP_IMG_PATH = 'data/img/miramar_map.jpg'
